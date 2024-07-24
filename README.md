@@ -22,7 +22,6 @@ Affichage d’une carte ApexCharts pour visualiser qui nourrit le chien le plus 
 
 Utilisation de Fusion 360 et impression 3D. Voici le prototype :
 ![prototype](/docs/96a95cf00a6961c3a06991813392e723bbc3ace6.jpeg)
-96a95cf00a6961c3a06991813392e723bbc3ace6.jpeg
 
 ## LE HARDWARE :
 Voici le schéma du montage prévu.
