@@ -32,3 +32,6 @@ Voici le schéma du montage prévu.
 
 ### LE YAML pour ESP HOME :
 À faire…
+
+### Le 1er Prototype :
+![PROTO](/docs/Image/PhotoProto1.jpg)
